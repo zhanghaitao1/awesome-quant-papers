@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list id="35213b8d-76e0-4fc2-aba2-98836c4b2dde" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit ccd5e7f" />
+    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/zht.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/paper_notes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20060804-Deutsche Bank-The pursuit of alpha 1_the relationship between active analysts and excess.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20140218 - credit suisse - Quantitative Research - Alpha ideas series Readability – An introduction.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20150416 - credit suisse - Quantitative Research - Alpha ideas series Skewness momentum.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20151027 - credit suisse - japan equity quantitative research - Active analyst effect Some estimate revisions are 'smarter' than others.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20151218 - credit suisse - japan equity quantitative research - Dual smart revision alert weekly.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20160205-Credit Suisse-QUANTITATIVE RESEARCH - Alpha Ideas Analyst forecast skewness .xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20160706 - credit suisse - japan equity quantitative research - Dual Smart Revision Alert Profit quality over quantity; domestic demand names revised up.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20160712 - credit suisse - japan equity quantitative research - Dual Smart Revision Alert Are revisions toward or away from guidance.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20160728 - credit suisse - japan equity quantitative research - Dual Smart Revision Features of dual smart revision combined with return reversal.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20160825 - credit suisse - japan equity quantitative research - Triple Smart Revisions Adding opinion leaders’ target price data.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20170301 - credit suisse - Quantitative Research -  Stock picking was difficult during reporting period.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018- Optimization methods finance （2nd edition）.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/201809-HSBC-Global Alpha Strategy Handbook, 7th Edition.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190126 - Morgan Stanley - European Quantitative Strategy - Factor Investing Our Integrated Approach.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190218 - Morgan Stanley - European Quantitative Strategy - Factor efficacy Concentration matters.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190528 - Morgan Stanley - China Quantitative Strategy - QuantChina Trading Strategy #1 Significant Price Reversal, Especially When Traded Volume Spikes Up.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190529 - Morgan Stanley - China Quantitative Strategy - QuantChina Trading Strategy #2 Uniquely Positive Skewness of Stock Return Distribution (and How It's Linked to the Reversal Factor).xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190530 - Morgan Stanley - China Quantitative Strategy - QuantChina Trading Strategy #4 Liquidity Premium and the Clientele Effect.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190530 - Morgan Stanley - China Quantitative Strategy - QuantChina Trading Strategy #5 Short-term Price Momentum and Daily Price Limits.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20190604 - Morgan Stanley - China Quantitative Strategy - Launching QuantChina Exploring Alpha Opportunities in China A-shares.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arnott and Clements and Kalesnik and Linnainmaa- 2019- Factor Momentum.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avramov and Cheng and Schreiber and Shemer- 2017- Scaling up Market Anomalies.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bu and Fu and Jawadi- 2019- Does the Volatility of Volatility Risk Forecast Future Stock Returns.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DellaVigna and Pollet- 2007- Demographics and Industry Returns.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dellavigna and Pollet- 2009- Investor Inattention and Friday Earnings Announcements.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demirer and Lien and Zhang- 2015- Industry herding and momentum strategies.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ghayur and Heaney and Platt- 2018- Constructing Long-Only Multifactor Strategies - Portfolio Blending vs. Signal Blending.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goyenko and Holden and Trzcinka- 2009- Do liquidity measures measure liquidity.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hart et al- 2017- Pyomo ― Optimization Modeling in Python.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hartzmark and Shue- 2017- A Tough Act to Follow - Contrast Effects in Financial Markets.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Liu and Irvine- 2018- A Simple Explanation for the Dispersion Anomaly.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lou and Polk and Skouras- 2019- A tug of war - Overnight versus intraday expected returns.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nguyen- 2012- Geographic Momentum.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nielson and Consiglio and Zenios- 2010- Practical Financial Optimization - A Library of GAMS Models.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pyun- 2019- Variance risk in aggregate stock returns and time-varying return predictability.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Sigma - Introducing the Two Sigma Factor Lens.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yan- 2013- Crowded Trades, Short Covering, and Momentum Crashes.xmind" afterDir="false" />
+    </list>
+    <list id="eadda606-931b-407e-a3f8-b8675823eff6" name="update" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="161" />
+    <option name="y" value="-20" />
+    <option name="width" value="1935" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="paper_notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paper_notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="" />
+      <changelist id="eadda606-931b-407e-a3f8-b8675823eff6" name="update" comment="" />
+      <created>1563756425184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563756425184</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49262735" weight="0.39044943" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50268096" side_tool="true" weight="0.55133617" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Run" order="6" sideWeight="0.53792137" side_tool="true" weight="0.4886059" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.59129214" visible="true" weight="0.50842696" />
+      <window_info anchor="right" x="31" y="248" width="1474" height="337" id="Python Console" order="8" sideWeight="0.40870786" weight="0.36930296" />
+      <window_info anchor="right" id="Terminal" order="7" sideWeight="0.33286518" side_tool="true" weight="0.49061662" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6427567" visible="true" weight="0.252349" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database" order="6" sideWeight="0.50268096" side_tool="true" weight="0.5519663" />
+      <window_info anchor="bottom" id="Find" order="8" sideWeight="0.49731904" weight="0.505618" />
+      <window_info anchor="right" x="593" y="178" width="869" height="592" id="SciView" order="5" sideWeight="0.5898876" side_tool="true" weight="0.4919571" />
+      <window_info anchor="right" id="Structure" order="9" sideWeight="0.58848315" side_tool="true" weight="0.35924932" />
+      <window_info anchor="right" id="Debug" order="4" sideWeight="0.46207866" weight="0.38873994" />
+      <window_info id="Favorites" order="1" sideWeight="0.35724333" side_tool="true" weight="0.1494638" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="2" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="3" sideWeight="0.40486726" side_tool="true" weight="0.31233245" />
+      <window_info anchor="bottom" id="Cvs" order="1" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
