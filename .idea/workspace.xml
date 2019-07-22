@@ -1,53 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="" />
     <list id="35213b8d-76e0-4fc2-aba2-98836c4b2dde" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit ccd5e7f" />
-    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/zht.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/paper_notes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20060804-Deutsche Bank-The pursuit of alpha 1_the relationship between active analysts and excess.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20140218 - credit suisse - Quantitative Research - Alpha ideas series Readability – An introduction.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20150416 - credit suisse - Quantitative Research - Alpha ideas series Skewness momentum.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20151027 - credit suisse - japan equity quantitative research - Active analyst effect Some estimate revisions are 'smarter' than others.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20151218 - credit suisse - japan equity quantitative research - Dual smart revision alert weekly.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20160205-Credit Suisse-QUANTITATIVE RESEARCH - Alpha Ideas Analyst forecast skewness .xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20160706 - credit suisse - japan equity quantitative research - Dual Smart Revision Alert Profit quality over quantity; domestic demand names revised up.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20160712 - credit suisse - japan equity quantitative research - Dual Smart Revision Alert Are revisions toward or away from guidance.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20160728 - credit suisse - japan equity quantitative research - Dual Smart Revision Features of dual smart revision combined with return reversal.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20160825 - credit suisse - japan equity quantitative research - Triple Smart Revisions Adding opinion leaders’ target price data.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20170301 - credit suisse - Quantitative Research -  Stock picking was difficult during reporting period.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018- Optimization methods finance （2nd edition）.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/201809-HSBC-Global Alpha Strategy Handbook, 7th Edition.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190126 - Morgan Stanley - European Quantitative Strategy - Factor Investing Our Integrated Approach.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190218 - Morgan Stanley - European Quantitative Strategy - Factor efficacy Concentration matters.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190528 - Morgan Stanley - China Quantitative Strategy - QuantChina Trading Strategy #1 Significant Price Reversal, Especially When Traded Volume Spikes Up.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190529 - Morgan Stanley - China Quantitative Strategy - QuantChina Trading Strategy #2 Uniquely Positive Skewness of Stock Return Distribution (and How It's Linked to the Reversal Factor).xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190530 - Morgan Stanley - China Quantitative Strategy - QuantChina Trading Strategy #4 Liquidity Premium and the Clientele Effect.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190530 - Morgan Stanley - China Quantitative Strategy - QuantChina Trading Strategy #5 Short-term Price Momentum and Daily Price Limits.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190604 - Morgan Stanley - China Quantitative Strategy - Launching QuantChina Exploring Alpha Opportunities in China A-shares.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arnott and Clements and Kalesnik and Linnainmaa- 2019- Factor Momentum.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Avramov and Cheng and Schreiber and Shemer- 2017- Scaling up Market Anomalies.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bu and Fu and Jawadi- 2019- Does the Volatility of Volatility Risk Forecast Future Stock Returns.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DellaVigna and Pollet- 2007- Demographics and Industry Returns.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dellavigna and Pollet- 2009- Investor Inattention and Friday Earnings Announcements.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demirer and Lien and Zhang- 2015- Industry herding and momentum strategies.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ghayur and Heaney and Platt- 2018- Constructing Long-Only Multifactor Strategies - Portfolio Blending vs. Signal Blending.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Goyenko and Holden and Trzcinka- 2009- Do liquidity measures measure liquidity.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hart et al- 2017- Pyomo ― Optimization Modeling in Python.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hartzmark and Shue- 2017- A Tough Act to Follow - Contrast Effects in Financial Markets.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Liu and Irvine- 2018- A Simple Explanation for the Dispersion Anomaly.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lou and Polk and Skouras- 2019- A tug of war - Overnight versus intraday expected returns.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nguyen- 2012- Geographic Momentum.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nielson and Consiglio and Zenios- 2010- Practical Financial Optimization - A Library of GAMS Models.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pyun- 2019- Variance risk in aggregate stock returns and time-varying return predictability.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Two Sigma - Introducing the Two Sigma Factor Lens.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yan- 2013- Crowded Trades, Short Covering, and Momentum Crashes.xmind" afterDir="false" />
-    </list>
     <list id="eadda606-931b-407e-a3f8-b8675823eff6" name="update" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -131,7 +86,24 @@
       <option name="presentableId" value="Default" />
       <updated>1563756425184</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1563756734373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563756734373</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -140,7 +112,7 @@
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50268096" side_tool="true" weight="0.55133617" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="right" id="Run" order="6" sideWeight="0.53792137" side_tool="true" weight="0.4886059" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.59129214" visible="true" weight="0.50842696" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.59129214" weight="0.25" />
       <window_info anchor="right" x="31" y="248" width="1474" height="337" id="Python Console" order="8" sideWeight="0.40870786" weight="0.36930296" />
       <window_info anchor="right" id="Terminal" order="7" sideWeight="0.33286518" side_tool="true" weight="0.49061662" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6427567" visible="true" weight="0.252349" />
@@ -191,5 +163,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
