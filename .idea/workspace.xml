@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="">
+    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="35213b8d-76e0-4fc2-aba2-98836c4b2dde" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit ccd5e7f" />
@@ -13,12 +13,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="160" />
-    <option name="y" value="-20" />
-    <option name="width" value="1935" />
-    <option name="height" value="1045" />
   </component>
   <component name="ProjectId" id="1X0uIwzDp8eaAEBPxC64sfkk9Ur" />
   <component name="ProjectViewState">
@@ -53,6 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1563756425184</updated>
       <workItem from="1580195258082" duration="280000" />
+      <workItem from="1580572999461" duration="1451000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563756734373</created>
@@ -117,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580195381595</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1580573161032</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580573161033</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -150,13 +152,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="213" y="13" key="CommitChangelistDialog2" timestamp="1580195380629">
+    <state x="213" y="13" key="CommitChangelistDialog2" timestamp="1580573160125">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="213" y="13" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1580195380629" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1580195383403">
+    <state x="213" y="13" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1580573160125" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1580573162888">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1580195383403" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1580573162888" />
   </component>
 </project>
