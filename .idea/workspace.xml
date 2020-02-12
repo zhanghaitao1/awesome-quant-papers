@@ -48,6 +48,7 @@
       <updated>1563756425184</updated>
       <workItem from="1580195258082" duration="280000" />
       <workItem from="1580572999461" duration="1451000" />
+      <workItem from="1580993256085" duration="414000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563756734373</created>
@@ -119,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580573161033</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update">
+      <created>1580993642028</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580993642028</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -152,13 +160,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="213" y="13" key="CommitChangelistDialog2" timestamp="1580573160125">
+    <state x="213" y="13" key="CommitChangelistDialog2" timestamp="1580993641093">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="213" y="13" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1580573160125" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1580573162888">
+    <state x="213" y="13" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1580993641093" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1580993645850">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1580573162888" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1580993645850" />
   </component>
 </project>
