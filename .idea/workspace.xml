@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="update" />
     <list id="35213b8d-76e0-4fc2-aba2-98836c4b2dde" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit ccd5e7f" />
     <list id="eadda606-931b-407e-a3f8-b8675823eff6" name="update" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +15,10 @@
   <component name="ProjectId" id="1X0uIwzDp8eaAEBPxC64sfkk9Ur" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -55,6 +53,7 @@
       <workItem from="1584769607270" duration="809000" />
       <workItem from="1587192953713" duration="68000" />
       <workItem from="1589033787405" duration="162000" />
+      <workItem from="1592150077365" duration="272000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563756734373</created>
@@ -182,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589033911814</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update">
+      <created>1592150287302</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1592150287302</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -195,34 +201,35 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="213" y="13" key="CommitChangelistDialog2" timestamp="1589033910959">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1592150285175">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.689/1920.-479.864.1506@0.0.1280.689" timestamp="1592150285175" />
     <state x="213" y="13" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1584769808872" />
     <state x="213" y="13" key="CommitChangelistDialog2/0.0.1536.834/1920.6.864.1506@0.0.1536.834" timestamp="1589033910959" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1589033915441">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="266" y="26" key="Vcs.Push.Dialog.v2" timestamp="1592150290771">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="266" y="26" key="Vcs.Push.Dialog.v2/0.0.1280.689/1920.-479.864.1506@0.0.1280.689" timestamp="1592150290771" />
     <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1584769811653" />
     <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.6.864.1506@0.0.1536.834" timestamp="1589033915441" />
   </component>
