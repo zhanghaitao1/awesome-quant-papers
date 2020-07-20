@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/paper_notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/paper_notes.iml" afterDir="false" />
-    </list>
+    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="update" />
     <list id="35213b8d-76e0-4fc2-aba2-98836c4b2dde" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit ccd5e7f" />
     <list id="eadda606-931b-407e-a3f8-b8675823eff6" name="update" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +58,7 @@
       <workItem from="1593677163844" duration="8000" />
       <workItem from="1593961493377" duration="138000" />
       <workItem from="1594168493934" duration="428000" />
+      <workItem from="1594647082677" duration="703000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563756734373</created>
@@ -208,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594168890472</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update">
+      <created>1594647177679</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594647177679</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -240,21 +246,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="CommitChangelistDialog2" timestamp="1594168889551">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="77" y="0" key="CommitChangelistDialog2" timestamp="1594647176851">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="96" y="0" key="CommitChangelistDialog2/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594168889551" />
     <state x="0" y="0" key="CommitChangelistDialog2/0.0.1280.689/1920.-479.864.1506@0.0.1280.689" timestamp="1592150285175" />
-    <state x="77" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.6.864.1506@0.0.1536.834" timestamp="1593961579394" />
+    <state x="77" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.6.864.1506@0.0.1536.834" timestamp="1594647176851" />
     <state x="351" y="83" key="SettingsEditor" timestamp="1594168865119">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="351" y="83" key="SettingsEditor/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594168865119" />
-    <state x="451" y="190" key="Vcs.Push.Dialog.v2" timestamp="1594168893618">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2" timestamp="1594647181537">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="451" y="190" key="Vcs.Push.Dialog.v2/-1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1594168893618" />
     <state x="266" y="26" key="Vcs.Push.Dialog.v2/0.0.1280.689/1920.-479.864.1506@0.0.1280.689" timestamp="1592150290771" />
-    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.6.864.1506@0.0.1536.834" timestamp="1593961583875" />
+    <state x="361" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.6.864.1506@0.0.1536.834" timestamp="1594647181537" />
   </component>
 </project>
