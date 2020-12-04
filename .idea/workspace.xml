@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="update" />
+    <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="35213b8d-76e0-4fc2-aba2-98836c4b2dde" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit ccd5e7f" />
     <list id="eadda606-931b-407e-a3f8-b8675823eff6" name="update" comment="update" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +16,12 @@
     <session id="1452613163">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
     </session>
@@ -343,7 +345,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604721544308</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="update">
+      <created>1605451158255</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1605451158255</updated>
+    </task>
+    <task id="LOCAL-00034" summary="update">
+      <created>1606667133399</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1606667133399</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TodoView">
@@ -358,7 +374,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36353946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37579957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
