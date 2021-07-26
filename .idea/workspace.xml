@@ -2,29 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a1f3f0a-2f96-46c5-b5e9-db38ae71f735" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202010-discovering institutional demand for digital assets in dach region.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202105 - S&amp;P DJI Digital Assets Indices Policies &amp; Practices and Index Mathematics Methodology.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Anagol and Balasubramaniam and Ramadorai- 2021- Learning from noise - Evidence from India’s IPO lotteries.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cao and Fang and Lei- 2021- Negative peer disclosure.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Da Cunha and da Silva- 2020- Relevant stylized facts about bitcoin - Fluctuations, first return probability, and natural phenomena.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fang et al- 2020- Cryptocurrency trading - a comprehensive survey.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Georges and Girerd-Potin- 2017- A Discrete-Time State Observer Approach to Discovering Portfolio Holdings.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Guo and Rao and Zhu and Xu- 2020- Innovative deep matching algorithm for stock portfolio selection using deep stock profiles.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haq and Zeb and Lei and Zhang- 2021- Forecasting daily stock trend using multi-filter feature selection and deep learning.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/He and Wang and Yu- 2021- Similar Stocks.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hu and Li and Shen- 2020- Attention allocation and international stock return comovement - Evidence from the Bitcoin market.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lara-Benítez and Carranza-García and Riquelme- 2020- An Experimental Review on Deep Learning Architectures for Time Series Forecasting.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mazanec- 2021- Portfolio Optimalization on Digital Currency Market.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prado- 2020- Machine Learning for Asset Managers.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Song and Liu and Yang- 2017- Stock portfolio selection using learning-to-rank algorithms with news sentiment.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Urquhart- 2018- What causes the attention of Bitcoin.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yi and Xu and Wang- 2018- Volatility connectedness in the cryptocurrency market - Is Bitcoin a dominant cryptocurrency.mmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ziyin and Minami and Imajo- 2021- What Data Augmentation Do We Need for Deep-Learning-Based Finance.mmap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="35213b8d-76e0-4fc2-aba2-98836c4b2dde" name="Revert &quot;update&quot;" comment="Revert &quot;update&quot;&#10;&#10;This reverts commit ccd5e7f" />
     <list id="eadda606-931b-407e-a3f8-b8675823eff6" name="update" comment="update" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1452613163">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="17" />
-          <entry key="project.open.time.0" value="10" />
-          <entry key="project.open.time.4" value="4" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="17" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,10 +40,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-17" />
-    <option name="y" value="-17" />
-    <option name="width" value="1294" />
-    <option name="height" value="710" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectId" id="1X0uIwzDp8eaAEBPxC64sfkk9Ur" />
   <component name="ProjectView">
@@ -47,7 +51,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -59,6 +62,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -69,10 +73,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/a/Factor_Generater-master/factor_generater" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -81,18 +85,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -120,6 +113,7 @@
       <workItem from="1594168493934" duration="428000" />
       <workItem from="1594647082677" duration="703000" />
       <workItem from="1595505096680" duration="726000" />
+      <workItem from="1627312801733" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1563756734373</created>
@@ -359,7 +353,49 @@
       <option name="project" value="LOCAL" />
       <updated>1606667133399</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="update">
+      <created>1610464443293</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1610464443293</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update">
+      <created>1612686530190</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1612686530190</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update">
+      <created>1615166174780</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1615166174780</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update">
+      <created>1616165234501</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1616165234501</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update">
+      <created>1617031370134</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1617031370134</updated>
+    </task>
+    <task id="LOCAL-00040" summary="update">
+      <created>1618720555170</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1618720555171</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
@@ -374,7 +410,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37579957" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24093817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -389,7 +425,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32939914" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -398,25 +434,19 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
